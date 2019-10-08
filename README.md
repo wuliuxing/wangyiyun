@@ -1,8 +1,10 @@
 # wangyiyun
 
-## Project setup
+## 运行
 ```
-yarn install
+cnpm / yarn install
+
+cnpm / yarn run serve
 ```
 
 ### Compiles and hot-reloads for development
